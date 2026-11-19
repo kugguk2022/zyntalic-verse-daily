@@ -1,0 +1,231 @@
+{
+ "runs": [
+  {
+   "track": "rules",
+   "run": 1,
+   "date": "2026-11-17",
+   "started": "2026-11-19T16:21:11+00:00",
+   "model": null,
+   "file": "days/2026-11-17-run0001.jsonl",
+   "turns": 60,
+   "model_turns": 0,
+   "local_turns": 60,
+   "topics": {
+    "prime numbers": 7,
+    "post-quantum cryptography": 7,
+    "games and fair rules": 8,
+    "cities at night": 9,
+    "open versus closed AI models": 9,
+    "the open sea": 9,
+    "the Collatz conjecture": 7,
+    "learning from mistakes": 4
+   },
+   "councils": 7,
+   "engine": "0.4.0",
+   "obeyed": 0,
+   "defied": 0,
+   "coined": 7,
+   "adopted": 5,
+   "metrics": {
+    "coherence": null,
+    "engagement": null,
+    "judged": 0,
+    "judge_model": null,
+    "diversity": 0.643,
+    "words_per_line": 12.4,
+    "lexicon": 5,
+    "dormant": 0,
+    "lexicon_use": 0.017,
+    "move_entropy": {
+     "ASCI": 1.0,
+     "ASCI2": 1.0
+    },
+    "move_weights": {
+     "ASCI": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     },
+     "ASCI2": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     }
+    },
+    "palette": [
+     "#c8f51e",
+     "#8b6cff",
+     "#ff3ea5"
+    ]
+   },
+   "ended": "2026-11-19T16:21:14+00:00",
+   "model_calls": 0,
+   "note": null
+  },
+  {
+   "track": "rules",
+   "run": 2,
+   "date": "2026-11-18",
+   "started": "2026-11-19T16:21:14+00:00",
+   "model": null,
+   "file": "days/2026-11-18-run0002.jsonl",
+   "turns": 60,
+   "model_turns": 0,
+   "local_turns": 60,
+   "topics": {
+    "learning from mistakes": 8,
+    "prime numbers": 13,
+    "trust between rivals": 15,
+    "invented languages": 6,
+    "open versus closed AI models": 9,
+    "post-quantum cryptography": 9
+   },
+   "councils": 7,
+   "engine": "0.4.0",
+   "obeyed": 0,
+   "defied": 0,
+   "coined": 7,
+   "adopted": 7,
+   "metrics": {
+    "coherence": null,
+    "engagement": null,
+    "judged": 0,
+    "judge_model": null,
+    "diversity": 0.567,
+    "words_per_line": 10.9,
+    "lexicon": 12,
+    "dormant": 0,
+    "lexicon_use": 0.333,
+    "move_entropy": {
+     "ASCI": 1.0,
+     "ASCI2": 1.0
+    },
+    "move_weights": {
+     "ASCI": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     },
+     "ASCI2": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     }
+    },
+    "palette": [
+     "#c8f51e",
+     "#8b6cff",
+     "#ff3ea5"
+    ]
+   },
+   "ended": "2026-11-19T16:21:17+00:00",
+   "model_calls": 0,
+   "note": null
+  },
+  {
+   "track": "rules",
+   "run": 3,
+   "date": "2026-11-19",
+   "started": "2026-11-19T16:21:17+00:00",
+   "model": null,
+   "file": "days/2026-11-19-run0003.jsonl",
+   "turns": 60,
+   "model_turns": 0,
+   "local_turns": 60,
+   "topics": {
+    "trust between rivals": 7,
+    "space travel": 21,
+    "making films with AI": 10,
+    "invented languages": 7,
+    "what memory is for": 6,
+    "cities at night": 7,
+    "music and the shape of speech": 2
+   },
+   "councils": 7,
+   "engine": "0.4.0",
+   "obeyed": 0,
+   "defied": 0,
+   "coined": 7,
+   "adopted": 6,
+   "metrics": {
+    "coherence": null,
+    "engagement": null,
+    "judged": 0,
+    "judge_model": null,
+    "diversity": 0.525,
+    "words_per_line": 12.2,
+    "lexicon": 18,
+    "dormant": 0,
+    "lexicon_use": 0.317,
+    "move_entropy": {
+     "ASCI": 1.0,
+     "ASCI2": 1.0
+    },
+    "move_weights": {
+     "ASCI": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     },
+     "ASCI2": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     }
+    },
+    "palette": [
+     "#c8f51e",
+     "#8b6cff",
+     "#ff3ea5"
+    ]
+   },
+   "ended": "2026-11-19T16:21:20+00:00",
+   "model_calls": 0,
+   "note": null
+  }
+ ],
+ "updated": "2026-11-19T16:21:20+00:00",
+ "total_turns": 180
+}

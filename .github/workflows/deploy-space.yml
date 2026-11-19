@@ -1,0 +1,35 @@
+name: Deploy Space
+
+# Publishes ./space to Claude's Space only. GPT's Space (kugguk/zyntalic-dual) is never touched.
+on:
+  push:
+    branches: [main]
+    paths: ["space/**", ".github/workflows/deploy-space.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "huggingface_hub>=0.25"
+      - name: Upload ./space to kugguk/zyntalic-verse
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          SPACE = "kugguk/zyntalic-verse"          # hard-coded on purpose
+          assert SPACE != "kugguk/zyntalic-dual"
+          HfApi(token=os.environ["HF_TOKEN"]).upload_folder(
+              folder_path="space", repo_id=SPACE, repo_type="space",
+              commit_message="deploy from GitHub " + os.environ.get("GITHUB_SHA", "")[:7])
+          print("deployed to", SPACE)
+          PY

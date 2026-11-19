@@ -1,0 +1,51 @@
+name: Daily Verse run
+
+on:
+  schedule:
+    - cron: "17 18 * * *"   # every day 18:17 UTC, about 2 hours
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "How long to run (minutes)"
+        default: "120"
+
+permissions:
+  contents: read
+  models: read          # GITHUB_TOKEN may call GitHub Models (free tier)
+
+concurrency:
+  group: daily-verse
+  cancel-in-progress: false
+
+jobs:
+  run:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:          # four tracks run at the same time
+          - { track: free,     model: "meta/Meta-Llama-3.1-8B-Instruct", turn: "70" }
+          - { track: director, model: "microsoft/Phi-4",                 turn: "85" }
+          - { track: random,   model: "mistral-ai/Ministral-3B",         turn: "70" }
+          - { track: rules,    model: "",                                turn: "60" }
+    name: ${{ matrix.track }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Run the Verse
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ARCHIVE_REPO: kugguk/zyntalic-verse-archive
+          TRACK: ${{ matrix.track }}
+          MODEL: ${{ matrix.model }}
+          JUDGE_MODEL: ${{ vars.JUDGE_MODEL || 'meta/Llama-3.3-70B-Instruct' }}
+          TURN_SECONDS: ${{ matrix.turn }}
+          RUN_MINUTES: ${{ inputs.minutes || '120' }}
+          ENGINE_ZIP: space/site/verse/engine/zyntalic-zip.wasm
+          PYTHONUNBUFFERED: "1"
+        run: python runner/verse_daily.py

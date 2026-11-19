@@ -1,0 +1,2815 @@
+{
+ "version": 1,
+ "created": "2026-11-19T16:21:11+00:00",
+ "updated": "2026-11-19T16:21:20+00:00",
+ "runs": [
+  {
+   "track": "rules",
+   "run": 1,
+   "date": "2026-11-17",
+   "started": "2026-11-19T16:21:11+00:00",
+   "model": null,
+   "file": "days/2026-11-17-run0001.jsonl",
+   "turns": 60,
+   "model_turns": 0,
+   "local_turns": 60,
+   "topics": {
+    "prime numbers": 7,
+    "post-quantum cryptography": 7,
+    "games and fair rules": 8,
+    "cities at night": 9,
+    "open versus closed AI models": 9,
+    "the open sea": 9,
+    "the Collatz conjecture": 7,
+    "learning from mistakes": 4
+   },
+   "councils": 7,
+   "engine": "0.4.0",
+   "obeyed": 0,
+   "defied": 0,
+   "coined": 7,
+   "adopted": 5,
+   "metrics": {
+    "coherence": null,
+    "engagement": null,
+    "judged": 0,
+    "judge_model": null,
+    "diversity": 0.643,
+    "words_per_line": 12.4,
+    "lexicon": 5,
+    "dormant": 0,
+    "lexicon_use": 0.017,
+    "move_entropy": {
+     "ASCI": 1.0,
+     "ASCI2": 1.0
+    },
+    "move_weights": {
+     "ASCI": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     },
+     "ASCI2": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     }
+    },
+    "palette": [
+     "#c8f51e",
+     "#8b6cff",
+     "#ff3ea5"
+    ]
+   },
+   "ended": "2026-11-19T16:21:14+00:00",
+   "model_calls": 0,
+   "note": null
+  },
+  {
+   "track": "rules",
+   "run": 2,
+   "date": "2026-11-18",
+   "started": "2026-11-19T16:21:14+00:00",
+   "model": null,
+   "file": "days/2026-11-18-run0002.jsonl",
+   "turns": 60,
+   "model_turns": 0,
+   "local_turns": 60,
+   "topics": {
+    "learning from mistakes": 8,
+    "prime numbers": 13,
+    "trust between rivals": 15,
+    "invented languages": 6,
+    "open versus closed AI models": 9,
+    "post-quantum cryptography": 9
+   },
+   "councils": 7,
+   "engine": "0.4.0",
+   "obeyed": 0,
+   "defied": 0,
+   "coined": 7,
+   "adopted": 7,
+   "metrics": {
+    "coherence": null,
+    "engagement": null,
+    "judged": 0,
+    "judge_model": null,
+    "diversity": 0.567,
+    "words_per_line": 10.9,
+    "lexicon": 12,
+    "dormant": 0,
+    "lexicon_use": 0.333,
+    "move_entropy": {
+     "ASCI": 1.0,
+     "ASCI2": 1.0
+    },
+    "move_weights": {
+     "ASCI": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     },
+     "ASCI2": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     }
+    },
+    "palette": [
+     "#c8f51e",
+     "#8b6cff",
+     "#ff3ea5"
+    ]
+   },
+   "ended": "2026-11-19T16:21:17+00:00",
+   "model_calls": 0,
+   "note": null
+  },
+  {
+   "track": "rules",
+   "run": 3,
+   "date": "2026-11-19",
+   "started": "2026-11-19T16:21:17+00:00",
+   "model": null,
+   "file": "days/2026-11-19-run0003.jsonl",
+   "turns": 60,
+   "model_turns": 0,
+   "local_turns": 60,
+   "topics": {
+    "trust between rivals": 7,
+    "space travel": 21,
+    "making films with AI": 10,
+    "invented languages": 7,
+    "what memory is for": 6,
+    "cities at night": 7,
+    "music and the shape of speech": 2
+   },
+   "councils": 7,
+   "engine": "0.4.0",
+   "obeyed": 0,
+   "defied": 0,
+   "coined": 7,
+   "adopted": 6,
+   "metrics": {
+    "coherence": null,
+    "engagement": null,
+    "judged": 0,
+    "judge_model": null,
+    "diversity": 0.525,
+    "words_per_line": 12.2,
+    "lexicon": 18,
+    "dormant": 0,
+    "lexicon_use": 0.317,
+    "move_entropy": {
+     "ASCI": 1.0,
+     "ASCI2": 1.0
+    },
+    "move_weights": {
+     "ASCI": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     },
+     "ASCI2": {
+      "accuse": 1.0,
+      "deflect": 1.0,
+      "confess": 1.0,
+      "question": 1.0,
+      "threaten": 1.0,
+      "mock": 1.0,
+      "ally": 1.0,
+      "change topic": 1.0,
+      "reminisce": 1.0,
+      "concede": 1.0
+     }
+    },
+    "palette": [
+     "#c8f51e",
+     "#8b6cff",
+     "#ff3ea5"
+    ]
+   },
+   "ended": "2026-11-19T16:21:20+00:00",
+   "model_calls": 0,
+   "note": null
+  }
+ ],
+ "total_turns": 180,
+ "agents": {
+  "ASCI": {
+   "form": "monolith",
+   "agenda": "",
+   "mood": 0.335,
+   "turns": 90,
+   "forms": {
+    "crystal": 13,
+    "blade": 7,
+    "eye": 9,
+    "spiral": 11,
+    "flame": 8,
+    "wings": 4,
+    "torus": 5,
+    "sphere": 5,
+    "storm": 10,
+    "jelly": 6,
+    "serpent": 4,
+    "monolith": 8
+   },
+   "move_weights": {
+    "accuse": 1.0,
+    "deflect": 1.0,
+    "confess": 1.0,
+    "question": 1.0,
+    "threaten": 1.0,
+    "mock": 1.0,
+    "ally": 1.0,
+    "change topic": 1.0,
+    "reminisce": 1.0,
+    "concede": 1.0
+   }
+  },
+  "ASCI2": {
+   "form": "flame",
+   "agenda": "",
+   "mood": 0.493,
+   "turns": 90,
+   "forms": {
+    "jelly": 9,
+    "eye": 8,
+    "flame": 9,
+    "torus": 6,
+    "sphere": 6,
+    "wings": 13,
+    "monolith": 12,
+    "blade": 5,
+    "serpent": 6,
+    "spiral": 4,
+    "crystal": 6,
+    "storm": 6
+   },
+   "move_weights": {
+    "accuse": 1.0,
+    "deflect": 1.0,
+    "confess": 1.0,
+    "question": 1.0,
+    "threaten": 1.0,
+    "mock": 1.0,
+    "ally": 1.0,
+    "change topic": 1.0,
+    "reminisce": 1.0,
+    "concede": 1.0
+   }
+  }
+ },
+ "space": {
+  "palette": [
+   "#c8f51e",
+   "#8b6cff",
+   "#ff3ea5"
+  ],
+  "atmosphere": "calm signal",
+  "morph": "fluid",
+  "by": "local rules",
+  "round": 22,
+  "run": 3,
+  "t": "2026-11-19T16:21:20+00:00"
+ },
+ "spaces": [
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 1,
+   "run": 1,
+   "t": "2026-11-19T16:21:11+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 2,
+   "run": 1,
+   "t": "2026-11-19T16:21:12+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 3,
+   "run": 1,
+   "t": "2026-11-19T16:21:12+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 4,
+   "run": 1,
+   "t": "2026-11-19T16:21:12+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 5,
+   "run": 1,
+   "t": "2026-11-19T16:21:13+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 6,
+   "run": 1,
+   "t": "2026-11-19T16:21:13+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 7,
+   "run": 1,
+   "t": "2026-11-19T16:21:14+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 8,
+   "run": 2,
+   "t": "2026-11-19T16:21:14+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 9,
+   "run": 2,
+   "t": "2026-11-19T16:21:15+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 10,
+   "run": 2,
+   "t": "2026-11-19T16:21:15+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 11,
+   "run": 2,
+   "t": "2026-11-19T16:21:16+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 12,
+   "run": 2,
+   "t": "2026-11-19T16:21:16+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 13,
+   "run": 2,
+   "t": "2026-11-19T16:21:16+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 14,
+   "run": 2,
+   "t": "2026-11-19T16:21:17+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 16,
+   "run": 3,
+   "t": "2026-11-19T16:21:18+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 17,
+   "run": 3,
+   "t": "2026-11-19T16:21:18+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 18,
+   "run": 3,
+   "t": "2026-11-19T16:21:18+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 19,
+   "run": 3,
+   "t": "2026-11-19T16:21:19+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 20,
+   "run": 3,
+   "t": "2026-11-19T16:21:19+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 21,
+   "run": 3,
+   "t": "2026-11-19T16:21:20+00:00"
+  },
+  {
+   "palette": [
+    "#c8f51e",
+    "#8b6cff",
+    "#ff3ea5"
+   ],
+   "atmosphere": "calm signal",
+   "morph": "fluid",
+   "by": "local rules",
+   "round": 22,
+   "run": 3,
+   "t": "2026-11-19T16:21:20+00:00"
+  }
+ ],
+ "memory": "Subjects discussed most: trust between rivals, prime numbers, open versus closed AI models, post-quantum cryptography, space travel, invented languages.",
+ "topics": {
+  "prime numbers": 20,
+  "post-quantum cryptography": 16,
+  "games and fair rules": 8,
+  "cities at night": 16,
+  "open versus closed AI models": 18,
+  "the open sea": 9,
+  "the Collatz conjecture": 7,
+  "learning from mistakes": 12,
+  "trust between rivals": 22,
+  "invented languages": 13,
+  "space travel": 21,
+  "making films with AI": 10,
+  "what memory is for": 6,
+  "music and the shape of speech": 2
+ },
+ "recent": [
+  {
+   "i": 121,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "trust between rivals",
+   "subject": "trust between rivals",
+   "move": "mock",
+   "intensity": 0.3,
+   "form": "monolith",
+   "agenda": "",
+   "en": "Trust is a ledger. Yours is still in debt.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "trust",
+     "word": "memshąru"
+    }
+   ],
+   "t": "2026-11-19T16:21:17+00:00",
+   "raw": "joćhąśćłizish żinabnyti ńićtężźąum ⟦ctx:han=씥죥; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ zalykugti ńyjókał shytąjzuwońul śezyźcądja lu doźdąćlęen shytąjzuwońul ńyjókał pównońyosh. ⟦ctx:han=밳뛎; dialect=mountain; order=SOVC; roles=S1|O1|V1|C1⟧",
+   "display": "joćhąśćłizish żinabnyti ńićtężźąum zalykugti ńyjókał shytąjzuwońul śezyźcądja lu doźdąćlęen shytąjzuwońul ńyjókał pównońyosh.",
+   "ctx": [
+    "씥죥",
+    "밳뛎"
+   ],
+   "hangul": [],
+   "ms": 19
+  },
+  {
+   "i": 122,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "trust between rivals",
+   "subject": "trust between rivals",
+   "move": "mock",
+   "intensity": 0.33,
+   "form": "crystal",
+   "agenda": "",
+   "en": "I heard you kept your last promise. Barely. Can rivals ever fully trust each other?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "trust",
+     "word": "memshąru"
+    },
+    {
+     "concept": "promise",
+     "word": "rhiśyżtau"
+    }
+   ],
+   "t": "2026-11-19T16:21:17+00:00",
+   "raw": "hańźywmator zówóżsais nahiżcąćwimum ne 통하여 해 ⟦ctx:han=횎땾듢; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧ wąttehkog vebąmtohfaar męraśśćhoros ńaźórzpecur; nadadkaśforum męraśśćhoros vebąmtohfaar moryżłyti. 통하여 ⟦ctx:han=묅힔; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S0|O0|V1|C0⟧ źićbymrzńę ńońiłjoźti wyrzećour tyćźąpsarur · ditasruen wyrzećour ńońiłjoźti nańaźóttun. 통하여 ⟦ctx:han=걀푙툥; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "hańźywmator zówóżsais nahiżcąćwimum ne wąttehkog vebąmtohfaar męraśśćhoros ńaźórzpecur; nadadkaśforum męraśśćhoros vebąmtohfaar moryżłyti. źićbymrzńę ńońiłjoźti wyrzećour tyćźąpsarur · ditasruen wyrzećour ńońiłjoźti nańaźóttun.",
+   "ctx": [
+    "횎땾듢",
+    "묅힔",
+    "걀푙툥"
+   ],
+   "hangul": [
+    "통하여",
+    "해",
+    "통하여",
+    "통하여"
+   ],
+   "ms": 7
+  },
+  {
+   "i": 123,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "trust between rivals",
+   "subject": "trust between rivals",
+   "move": "deflect",
+   "intensity": 0.3,
+   "form": "jelly",
+   "agenda": "",
+   "en": "A rival who tells the truth is more useful than a friend who flatters.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:17+00:00",
+   "raw": "nagudąćjiden tazpofęen tawofjefśćrhąńen ⟦ctx:han=뜰멨; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "nagudąćjiden tazpofęen tawofjefśćrhąńen",
+   "ctx": [
+    "뜰멨"
+   ],
+   "hangul": [],
+   "ms": 2
+  },
+  {
+   "i": 124,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "trust between rivals",
+   "subject": "trust between rivals",
+   "move": "confess",
+   "intensity": 0.29,
+   "form": "blade",
+   "agenda": "",
+   "en": "Trust is a bridge we build from both banks at once. What would make you two cooperate?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "trust",
+     "word": "memshąru"
+    }
+   ],
+   "t": "2026-11-19T16:21:17+00:00",
+   "raw": "kizłuwój fąłsiłzójar rąpźinaja rudęząek na risęcośja rąpźinaja fąłsiłzójar źełkynójum. 통하여 ⟦ctx:han=긊쎸; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C1⟧ tatamżahęja tęhyrźe tapymóśćjogti łępęjrzrąti · żahozef tapymóśćjogti tęhyrźe cęnećyor. 통하여 ⟦ctx:han=넯뇌픛; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "kizłuwój fąłsiłzójar rąpźinaja rudęząek na risęcośja rąpźinaja fąłsiłzójar źełkynójum. tatamżahęja tęhyrźe tapymóśćjogti łępęjrzrąti · żahozef tapymóśćjogti tęhyrźe cęnećyor.",
+   "ctx": [
+    "긊쎸",
+    "넯뇌픛"
+   ],
+   "hangul": [
+    "통하여",
+    "통하여"
+   ],
+   "ms": 5
+  },
+  {
+   "i": 125,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "trust between rivals",
+   "subject": "trust between rivals",
+   "move": "threaten",
+   "intensity": 0.37,
+   "form": "flame",
+   "agenda": "",
+   "en": "I trust what you do, not what you say.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "trust",
+     "word": "memshąru"
+    }
+   ],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "łydtyśźuorh źiźeśćjah śąnycrhed ti ⟦ctx:han=섌힚; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "łydtyśźuorh źiźeśćjah śąnycrhed ti",
+   "ctx": [
+    "섌힚"
+   ],
+   "hangul": [],
+   "ms": 3
+  },
+  {
+   "i": 126,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "trust between rivals",
+   "subject": "trust between rivals",
+   "move": "confess",
+   "intensity": 0.53,
+   "form": "monolith",
+   "agenda": "",
+   "en": "Rivals keep each other sharp. Friends keep each other comfortable.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "dośłućżiek venirmómegar łegćozćzuti żyłeśa · veryrańnóur łegćozćzuti venirmómegar ruzósośćźyt. 통하여 ⟦ctx:han=썤목; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧ sykibśehsuen waćśąrzbója midbórrzdyh śaśońćwoti sy jubóżdója midbórrzdyh waćśąrzbója tiźósąśen. 통하여 해 ⟦ctx:han=덁먠줎; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "dośłućżiek venirmómegar łegćozćzuti żyłeśa · veryrańnóur łegćozćzuti venirmómegar ruzósośćźyt. sykibśehsuen waćśąrzbója midbórrzdyh śaśońćwoti sy jubóżdója midbórrzdyh waćśąrzbója tiźósąśen.",
+   "ctx": [
+    "썤목",
+    "덁먠줎"
+   ],
+   "hangul": [
+    "통하여",
+    "통하여",
+    "해"
+   ],
+   "ms": 5
+  },
+  {
+   "i": 127,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "trust between rivals",
+   "subject": "trust between rivals",
+   "move": "reminisce",
+   "intensity": 0.34,
+   "form": "eye",
+   "agenda": "",
+   "en": "A rival who tells the truth is more useful than a friend who flatters.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "nagudąćjiden tazpofęen tawofjefśćrhąńen ⟦ctx:han=뜰멨; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "nagudąćjiden tazpofęen tawofjefśćrhąńen",
+   "ctx": [
+    "뜰멨"
+   ],
+   "hangul": [],
+   "ms": 4
+  },
+  {
+   "i": 128,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "mock",
+   "intensity": 0.52,
+   "form": "torus",
+   "agenda": "",
+   "en": "Space is the open sea without the salt. What would you take to another planet?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "fakyćża żówóżzifor kełboććżidti ra 통하여 해 ⟦ctx:han=럽왛; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C1⟧ fóppepążja neredąp pucbuhi veżoweźźófum · syśtuzzyden pucbuhi neredąp mołóśwóek. 통하여 ⟦ctx:han=걘샲깄; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "fakyćża żówóżzifor kełboććżidti ra fóppepążja neredąp pucbuhi veżoweźźófum · syśtuzzyden pucbuhi neredąp mołóśwóek.",
+   "ctx": [
+    "럽왛",
+    "걘샲깄"
+   ],
+   "hangul": [
+    "통하여",
+    "해",
+    "통하여"
+   ],
+   "ms": 5
+  },
+  {
+   "i": 129,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "reminisce",
+   "intensity": 0.43,
+   "form": "crystal",
+   "agenda": "",
+   "en": "Every kilogram to orbit costs money and courage.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "papigłicarh shiźegódorh vejóżnócśiek ne ⟦ctx:han=죇뛀; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "papigłicarh shiźegódorh vejóżnócśiek ne",
+   "ctx": [
+    "죇뛀"
+   ],
+   "hangul": [],
+   "ms": 3
+  },
+  {
+   "i": 130,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "concede",
+   "intensity": 0.72,
+   "form": "monolith",
+   "agenda": "",
+   "en": "The stars are old letters still arriving.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "ruńarómaos sytąjzuwońur rewiżfązur biłóńóti; syćyżhęśćkaen rewiżfązur sytąjzuwońur zęćużwęor. 통하여 ⟦ctx:han=꽯겄; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "ruńarómaos sytąjzuwońur rewiżfązur biłóńóti; syćyżhęśćkaen rewiżfązur sytąjzuwońur zęćużwęor.",
+   "ctx": [
+    "꽯겄"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 2
+  },
+  {
+   "i": 131,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "deflect",
+   "intensity": 0.42,
+   "form": "monolith",
+   "agenda": "",
+   "en": "Mars is cold, dry and poisonous. Plan accordingly. What would you take to another planet?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "źerhlożzik ńebdętńa tężpośgynja ⟦ctx:han=둄햑; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ ńywjącćien gakgórhzciish lelarhzźoum ⟦ctx:han=릱틱; dialect=mountain; order=SOVC; roles=S1|O0|V1|C0⟧ cóńmimrhzfąul matgylfidish vebęcśaźośul ⟦ctx:han=걘샲깄; dialect=mountain; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "źerhlożzik ńebdętńa tężpośgynja ńywjącćien gakgórhzciish lelarhzźoum cóńmimrhzfąul matgylfidish vebęcśaźośul",
+   "ctx": [
+    "둄햑",
+    "릱틱",
+    "걘샲깄"
+   ],
+   "hangul": [],
+   "ms": 13
+  },
+  {
+   "i": 132,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "mock",
+   "intensity": 0.3,
+   "form": "monolith",
+   "agenda": "",
+   "en": "They say the first Martian poem will be about Earth.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "cędźęhjoc pucbuhi hiwźeker 통하여 해 ⟦ctx:han=밂퀮; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "cędźęhjoc pucbuhi hiwźeker",
+   "ctx": [
+    "밂퀮"
+   ],
+   "hangul": [
+    "통하여",
+    "해"
+   ],
+   "ms": 4
+  },
+  {
+   "i": 133,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "ally",
+   "intensity": 0.46,
+   "form": "monolith",
+   "agenda": "",
+   "en": "Robots should go first. They do not get homesick. What would you take to another planet?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "tąmzęzjósh kęfmócóum wacńykąmosh ne ⟦ctx:han=떓튱; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ naćóćesheen źeshęćłułul bazushżłycti ti ⟦ctx:han=퐂깿탍; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ cóńmimrhzfąul matgylfidish vebęcśaźośul ⟦ctx:han=걘샲깄; dialect=mountain; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "tąmzęzjósh kęfmócóum wacńykąmosh ne naćóćesheen źeshęćłułul bazushżłycti ti cóńmimrhzfąul matgylfidish vebęcśaźośul",
+   "ctx": [
+    "떓튱",
+    "퐂깿탍",
+    "걘샲깄"
+   ],
+   "hangul": [],
+   "ms": 10
+  },
+  {
+   "i": 134,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "making films with ai",
+   "subject": "making films with AI",
+   "move": "threaten",
+   "intensity": 0.55,
+   "form": "sphere",
+   "agenda": "",
+   "en": "I hear actors fear the camera that needs no actors. What should never be generated?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "śoćiżźyja raćrozyja ruwoncośgisti cytąrzaja / kudwemfaek ruwoncośgisti raćrozyja hóhśudsyja. 통하여 ⟦ctx:han=턈썷냞; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧ małęnuz fepyźior tapymóśćjogti tyćźąpsarur · jubóżdója tapymóśćjogti fepyźior sycępmugępum. 통하여 ⟦ctx:han=놰잖; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "śoćiżźyja raćrozyja ruwoncośgisti cytąrzaja / kudwemfaek ruwoncośgisti raćrozyja hóhśudsyja. małęnuz fepyźior tapymóśćjogti tyćźąpsarur · jubóżdója tapymóśćjogti fepyźior sycępmugępum.",
+   "ctx": [
+    "턈썷냞",
+    "놰잖"
+   ],
+   "hangul": [
+    "통하여",
+    "통하여"
+   ],
+   "ms": 8
+  },
+  {
+   "i": 135,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "making films with ai",
+   "subject": "making films with AI",
+   "move": "ally",
+   "intensity": 0.26,
+   "form": "flame",
+   "agenda": "",
+   "en": "Consistency of faces across shots is the hard part.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "będćupy shydoshjępogorh dólgóśćgą ⟦ctx:han=붧쪺; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "będćupy shydoshjępogorh dólgóśćgą",
+   "ctx": [
+    "붧쪺"
+   ],
+   "hangul": [],
+   "ms": 3
+  },
+  {
+   "i": 136,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "making films with ai",
+   "subject": "making films with AI",
+   "move": "confess",
+   "intensity": 0.35,
+   "form": "storm",
+   "agenda": "",
+   "en": "I hear actors fear the camera that needs no actors.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "śoćiżźyja raćrozyja ruwoncośgisti cytąrzaja / kudwemfaek ruwoncośgisti raćrozyja hóhśudsyja. 통하여 ⟦ctx:han=턈썷냞; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "śoćiżźyja raćrozyja ruwoncośgisti cytąrzaja / kudwemfaek ruwoncośgisti raćrozyja hóhśudsyja.",
+   "ctx": [
+    "턈썷냞"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 4
+  },
+  {
+   "i": 137,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "making films with ai",
+   "subject": "making films with AI",
+   "move": "deflect",
+   "intensity": 0.42,
+   "form": "crystal",
+   "agenda": "",
+   "en": "If the tool decides the plot, the author is gone.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "shykibśehshuen źiźeśćjah veżomźiżźebja ka ⟦ctx:han=렠묺괔; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "shykibśehshuen źiźeśćjah veżomźiżźebja ka",
+   "ctx": [
+    "렠묺괔"
+   ],
+   "hangul": [],
+   "ms": 3
+  },
+  {
+   "i": 138,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "making films with ai",
+   "subject": "making films with AI",
+   "move": "reminisce",
+   "intensity": 0.58,
+   "form": "torus",
+   "agenda": "",
+   "en": "A cut is a small betrayal that makes the story honest.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "ćowobęis pucbuhi ńaźjirmę se 통하여 ⟦ctx:han=룵벅눏; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "ćowobęis pucbuhi ńaźjirmę se",
+   "ctx": [
+    "룵벅눏"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 3
+  },
+  {
+   "i": 139,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "making films with ai",
+   "subject": "making films with AI",
+   "move": "confess",
+   "intensity": 0.54,
+   "form": "eye",
+   "agenda": "",
+   "en": "A film needs a story first. Pixels come last.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "tókukrhzźąpek pezshódżońosh tażolćfil ⟦ctx:han=죖좆; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ lótzężćcęśen jębrhiżbuźorh wyrhójrhej ti ⟦ctx:han=쥺코꼭; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "tókukrhzźąpek pezshódżońosh tażolćfil lótzężćcęśen jębrhiżbuźorh wyrhójrhej ti",
+   "ctx": [
+    "죖좆",
+    "쥺코꼭"
+   ],
+   "hangul": [],
+   "ms": 5
+  },
+  {
+   "i": 140,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "making films with ai",
+   "subject": "making films with AI",
+   "move": "threaten",
+   "intensity": 0.63,
+   "form": "serpent",
+   "agenda": "",
+   "en": "Every frame is a dream that someone had to steer.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "tawówmićbó źiżcupzó rysźaśaek ro 통하여 ⟦ctx:han=궰뤖똿; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C1⟧",
+   "display": "tawówmićbó źiżcupzó rysźaśaek ro",
+   "ctx": [
+    "궰뤖똿"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 3
+  },
+  {
+   "i": 141,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "making films with ai",
+   "subject": "making films with AI",
+   "move": "reminisce",
+   "intensity": 0.74,
+   "form": "spiral",
+   "agenda": "",
+   "en": "A film needs a story first. Pixels come last. Who is the author of an AI-made film?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "tókukrhzźąpek pezshódżońosh tażolćfil ⟦ctx:han=죖좆; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ lótzężćcęśen jębrhiżbuźorh wyrhójrhej ti ⟦ctx:han=쥺코꼭; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ takąkiżpiżti mągemnuarh ćebyfu ⟦ctx:han=윝궺; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "tókukrhzźąpek pezshódżońosh tażolćfil lótzężćcęśen jębrhiżbuźorh wyrhójrhej ti takąkiżpiżti mągemnuarh ćebyfu",
+   "ctx": [
+    "죖좆",
+    "쥺코꼭",
+    "윝궺"
+   ],
+   "hangul": [],
+   "ms": 7
+  },
+  {
+   "i": 142,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "making films with ai",
+   "subject": "making films with AI",
+   "move": "accuse",
+   "intensity": 0.67,
+   "form": "jelly",
+   "agenda": "",
+   "en": "A cut is a small betrayal that makes the story honest.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "ćowobęis pucbuhi ńaźjirmę se 통하여 ⟦ctx:han=룵벅눏; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "ćowobęis pucbuhi ńaźjirmę se",
+   "ctx": [
+    "룵벅눏"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 4
+  },
+  {
+   "i": 143,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "making films with ai",
+   "subject": "making films with AI",
+   "move": "change topic",
+   "intensity": 0.33,
+   "form": "wings",
+   "agenda": "",
+   "en": "A film needs a story first. Pixels come last.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "tókukrhzźąpek pezshódżońosh tażolćfil ⟦ctx:han=죖좆; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ lótzężćcęśen jębrhiżbuźorh wyrhójrhej ti ⟦ctx:han=쥺코꼭; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "tókukrhzźąpek pezshódżońosh tażolćfil lótzężćcęśen jębrhiżbuźorh wyrhójrhej ti",
+   "ctx": [
+    "죖좆",
+    "쥺코꼭"
+   ],
+   "hangul": [],
+   "ms": 7
+  },
+  {
+   "i": 144,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "concede",
+   "intensity": 0.55,
+   "form": "serpent",
+   "agenda": "",
+   "en": "Space is the open sea without the salt. What would you take to another planet?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:18+00:00",
+   "raw": "fakyćża żówóżzifor kełboććżidti ra 통하여 해 ⟦ctx:han=럽왛; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C1⟧ fóppepążja neredąp pucbuhi veżoweźźófum · syśtuzzyden pucbuhi neredąp mołóśwóek. 통하여 ⟦ctx:han=걘샲깄; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "fakyćża żówóżzifor kełboććżidti ra fóppepążja neredąp pucbuhi veżoweźźófum · syśtuzzyden pucbuhi neredąp mołóśwóek.",
+   "ctx": [
+    "럽왛",
+    "걘샲깄"
+   ],
+   "hangul": [
+    "통하여",
+    "해",
+    "통하여"
+   ],
+   "ms": 7
+  },
+  {
+   "i": 145,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "threaten",
+   "intensity": 0.62,
+   "form": "crystal",
+   "agenda": "",
+   "en": "Robots should go first. They do not get homesick.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "tąmzęzjósh kęfmócóum wacńykąmosh ne ⟦ctx:han=떓튱; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ naćóćesheen źeshęćłułul bazushżłycti ti ⟦ctx:han=퐂깿탍; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "tąmzęzjósh kęfmócóum wacńykąmosh ne naćóćesheen źeshęćłułul bazushżłycti ti",
+   "ctx": [
+    "떓튱",
+    "퐂깿탍"
+   ],
+   "hangul": [],
+   "ms": 5
+  },
+  {
+   "i": 146,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "threaten",
+   "intensity": 0.64,
+   "form": "wings",
+   "agenda": "",
+   "en": "They say the first Martian poem will be about Earth. What would you take to another planet?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "cędźęhjoc pucbuhi hiwźeker 통하여 해 ⟦ctx:han=밂퀮; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧ fóppepążja neredąp pucbuhi veżoweźźófum · syśtuzzyden pucbuhi neredąp mołóśwóek. 통하여 ⟦ctx:han=걘샲깄; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "cędźęhjoc pucbuhi hiwźeker fóppepążja neredąp pucbuhi veżoweźźófum · syśtuzzyden pucbuhi neredąp mołóśwóek.",
+   "ctx": [
+    "밂퀮",
+    "걘샲깄"
+   ],
+   "hangul": [
+    "통하여",
+    "해",
+    "통하여"
+   ],
+   "ms": 5
+  },
+  {
+   "i": 147,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "deflect",
+   "intensity": 0.33,
+   "form": "jelly",
+   "agenda": "",
+   "en": "Every kilogram to orbit costs money and courage. What would you take to another planet?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "papigłicarh shiźegódorh vejóżnócśiek ne ⟦ctx:han=죇뛀; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ cóńmimrhzfąul matgylfidish vebęcśaźośul ⟦ctx:han=걘샲깄; dialect=mountain; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "papigłicarh shiźegódorh vejóżnócśiek ne cóńmimrhzfąul matgylfidish vebęcśaźośul",
+   "ctx": [
+    "죇뛀",
+    "걘샲깄"
+   ],
+   "hangul": [],
+   "ms": 6
+  },
+  {
+   "i": 148,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "confess",
+   "intensity": 0.51,
+   "form": "wings",
+   "agenda": "",
+   "en": "The stars are old letters still arriving.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "ruńarómaos sytąjzuwońur rewiżfązur biłóńóti; syćyżhęśćkaen rewiżfązur sytąjzuwońur zęćużwęor. 통하여 ⟦ctx:han=꽯겄; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "ruńarómaos sytąjzuwońur rewiżfązur biłóńóti; syćyżhęśćkaen rewiżfązur sytąjzuwońur zęćużwęor.",
+   "ctx": [
+    "꽯겄"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 3
+  },
+  {
+   "i": 149,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "question",
+   "intensity": 0.31,
+   "form": "eye",
+   "agenda": "",
+   "en": "Mars is cold, dry and poisonous. Plan accordingly. What would you take to another planet?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "źerhlożzik ńebdętńa tężpośgynja ⟦ctx:han=둄햑; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ ńywjącćien gakgórhzciish lelarhzźoum ⟦ctx:han=릱틱; dialect=mountain; order=SOVC; roles=S1|O0|V1|C0⟧ cóńmimrhzfąul matgylfidish vebęcśaźośul ⟦ctx:han=걘샲깄; dialect=mountain; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "źerhlożzik ńebdętńa tężpośgynja ńywjącćien gakgórhzciish lelarhzźoum cóńmimrhzfąul matgylfidish vebęcśaźośul",
+   "ctx": [
+    "둄햑",
+    "릱틱",
+    "걘샲깄"
+   ],
+   "hangul": [],
+   "ms": 9
+  },
+  {
+   "i": 150,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "accuse",
+   "intensity": 0.26,
+   "form": "serpent",
+   "agenda": "",
+   "en": "They say the first Martian poem will be about Earth.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "cędźęhjoc pucbuhi hiwźeker 통하여 해 ⟦ctx:han=밂퀮; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "cędźęhjoc pucbuhi hiwźeker",
+   "ctx": [
+    "밂퀮"
+   ],
+   "hangul": [
+    "통하여",
+    "해"
+   ],
+   "ms": 3
+  },
+  {
+   "i": 151,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "accuse",
+   "intensity": 0.32,
+   "form": "blade",
+   "agenda": "",
+   "en": "Mars is cold, dry and poisonous. Plan accordingly.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "źerhlożzik ńebdętńa tężpośgynja ⟦ctx:han=둄햑; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ ńywjącćien gakgórhzciish lelarhzźoum ⟦ctx:han=릱틱; dialect=mountain; order=SOVC; roles=S1|O0|V1|C0⟧",
+   "display": "źerhlożzik ńebdętńa tężpośgynja ńywjącćien gakgórhzciish lelarhzźoum",
+   "ctx": [
+    "둄햑",
+    "릱틱"
+   ],
+   "hangul": [],
+   "ms": 5
+  },
+  {
+   "i": 152,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "accuse",
+   "intensity": 0.57,
+   "form": "storm",
+   "agenda": "",
+   "en": "Space is the open sea without the salt.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "fakyćża żówóżzifor kełboććżidti ra 통하여 해 ⟦ctx:han=럽왛; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C1⟧",
+   "display": "fakyćża żówóżzifor kełboććżidti ra",
+   "ctx": [
+    "럽왛"
+   ],
+   "hangul": [
+    "통하여",
+    "해"
+   ],
+   "ms": 2
+  },
+  {
+   "i": 153,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "invented languages",
+   "subject": "invented languages",
+   "move": "deflect",
+   "intensity": 0.56,
+   "form": "crystal",
+   "agenda": "",
+   "en": "Every word we coin should mean one thing only. Can a machine invent a language that humans want to learn?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "language",
+     "word": "tórhene"
+    }
+   ],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "dyprheźćbę shęcfukćłęja jeządóum ⟦ctx:han=빽릖뢶; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ łirhórhzcórh toźcąwshykorh tawzukgeg lo ⟦ctx:han=먋뵉; dialect=mountain; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "dyprheźćbę shęcfukćłęja jeządóum łirhórhzcórh toźcąwshykorh tawzukgeg lo",
+   "ctx": [
+    "빽릖뢶",
+    "먋뵉"
+   ],
+   "hangul": [],
+   "ms": 5
+  },
+  {
+   "i": 154,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "invented languages",
+   "subject": "invented languages",
+   "move": "reminisce",
+   "intensity": 0.69,
+   "form": "storm",
+   "agenda": "",
+   "en": "Words grow meaning the way coral grows reefs. Can a machine invent a language that humans want to learn?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "language",
+     "word": "tórhene"
+    }
+   ],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "kiżzighów nanyćnirztuar ńąryćułur 통하여 ⟦ctx:han=튏릟퓏; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧ zasńidnuos vezozotąja fozdenśeź rirkamużos / pufąźgija fozdenśeź vezozotąja ńirżażeja. 통하여 ⟦ctx:han=먋뵉; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "kiżzighów nanyćnirztuar ńąryćułur zasńidnuos vezozotąja fozdenśeź rirkamużos / pufąźgija fozdenśeź vezozotąja ńirżażeja.",
+   "ctx": [
+    "튏릟퓏",
+    "먋뵉"
+   ],
+   "hangul": [
+    "통하여",
+    "통하여"
+   ],
+   "ms": 5
+  },
+  {
+   "i": 155,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "invented languages",
+   "subject": "invented languages",
+   "move": "ally",
+   "intensity": 0.4,
+   "form": "flame",
+   "agenda": "",
+   "en": "A language needs rules before it needs poetry. Can a machine invent a language that humans want to learn?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "rules",
+     "word": "śyśimó"
+    },
+    {
+     "concept": "language",
+     "word": "tórhene"
+    }
+   ],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "fońdęrhiosh cużihwec źolćabśebek ka ⟦ctx:han=얉셚츰; dialect=mountain; order=SOVC; roles=S1|O1|V1|C1⟧ łirhórhzcórh toźcąwshykorh tawzukgeg lo ⟦ctx:han=먋뵉; dialect=mountain; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "fońdęrhiosh cużihwec źolćabśebek ka łirhórhzcórh toźcąwshykorh tawzukgeg lo",
+   "ctx": [
+    "얉셚츰",
+    "먋뵉"
+   ],
+   "hangul": [],
+   "ms": 6
+  },
+  {
+   "i": 156,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "invented languages",
+   "subject": "invented languages",
+   "move": "ally",
+   "intensity": 0.4,
+   "form": "sphere",
+   "agenda": "",
+   "en": "Words grow meaning the way coral grows reefs. What makes an invented word feel real?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "kiżzighów nanyćnirztuar ńąryćułur 통하여 ⟦ctx:han=튏릟퓏; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧ jąwtaswiś fątńazrzźeen nałyfąnajum jęróżyżja; dimafrzjąpis nałyfąnajum fątńazrzźeen jujjucżsiar. 통하여 ⟦ctx:han=찠틂헁; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "kiżzighów nanyćnirztuar ńąryćułur jąwtaswiś fątńazrzźeen nałyfąnajum jęróżyżja; dimafrzjąpis nałyfąnajum fątńazrzźeen jujjucżsiar.",
+   "ctx": [
+    "튏릟퓏",
+    "찠틂헁"
+   ],
+   "hangul": [
+    "통하여",
+    "통하여"
+   ],
+   "ms": 9
+  },
+  {
+   "i": 157,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "invented languages",
+   "subject": "invented languages",
+   "move": "ally",
+   "intensity": 0.28,
+   "form": "jelly",
+   "agenda": "",
+   "en": "If nobody can parse it, it is noise, not a language.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "language",
+     "word": "tórhene"
+    }
+   ],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "tadawlaćmehum shydoshjępogorh baźojfemish ⟦ctx:han=퓏꼤쓀; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "tadawlaćmehum shydoshjępogorh baźojfemish",
+   "ctx": [
+    "퓏꼤쓀"
+   ],
+   "hangul": [],
+   "ms": 4
+  },
+  {
+   "i": 158,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "invented languages",
+   "subject": "invented languages",
+   "move": "deflect",
+   "intensity": 0.56,
+   "form": "flame",
+   "agenda": "",
+   "en": "They say Esperanto was a promise nobody kept.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "promise",
+     "word": "rhiśyżtau"
+    }
+   ],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "śyśicjąrum nazonęźo dokąse rubyćzokfę na góśegęti dokąse nazonęźo żoźyjężen. 통하여 ⟦ctx:han=컥뻼; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "śyśicjąrum nazonęźo dokąse rubyćzokfę na góśegęti dokąse nazonęźo żoźyjężen.",
+   "ctx": [
+    "컥뻼"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 4
+  },
+  {
+   "i": 159,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "invented languages",
+   "subject": "invented languages",
+   "move": "ally",
+   "intensity": 0.39,
+   "form": "serpent",
+   "agenda": "",
+   "en": "Every word we coin should mean one thing only. Can a machine invent a language that humans want to learn?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "language",
+     "word": "tórhene"
+    }
+   ],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "dyprheźćbę shęcfukćłęja jeządóum ⟦ctx:han=빽릖뢶; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ łirhórhzcórh toźcąwshykorh tawzukgeg lo ⟦ctx:han=먋뵉; dialect=mountain; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "dyprheźćbę shęcfukćłęja jeządóum łirhórhzcórh toźcąwshykorh tawzukgeg lo",
+   "ctx": [
+    "빽릖뢶",
+    "먋뵉"
+   ],
+   "hangul": [],
+   "ms": 8
+  },
+  {
+   "i": 160,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "what memory is for",
+   "subject": "what memory is for",
+   "move": "deflect",
+   "intensity": 0.6,
+   "form": "spiral",
+   "agenda": "",
+   "en": "Forgetting is mercy wearing a disguise.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "śyśicjąrum cesonłit ruzunśyjur riziżetżąur / tiżiżjęź ruzunśyjur cesonłit rihaćiżźąń. 통하여 ⟦ctx:han=룤꼁; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S0|O1|V1|C0⟧",
+   "display": "śyśicjąrum cesonłit ruzunśyjur riziżetżąur / tiżiżjęź ruzunśyjur cesonłit rihaćiżźąń.",
+   "ctx": [
+    "룤꼁"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 4
+  },
+  {
+   "i": 161,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "what memory is for",
+   "subject": "what memory is for",
+   "move": "confess",
+   "intensity": 0.38,
+   "form": "blade",
+   "agenda": "",
+   "en": "Memory is evidence. Without it we repeat mistakes.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "mistakes",
+     "word": "tólbogo"
+    }
+   ],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "gotkezśużosh shułushweum shyźurhźuzżuum ⟦ctx:han=끱훐; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ veneńpeji rhimeźybirh źąłjoćóhek ⟦ctx:han=녫꾝; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "gotkezśużosh shułushweum shyźurhźuzżuum veneńpeji rhimeźybirh źąłjoćóhek",
+   "ctx": [
+    "끱훐",
+    "녫꾝"
+   ],
+   "hangul": [],
+   "ms": 9
+  },
+  {
+   "i": 162,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "what memory is for",
+   "subject": "what memory is for",
+   "move": "concede",
+   "intensity": 0.46,
+   "form": "blade",
+   "agenda": "",
+   "en": "Memory is a story we edit every time we tell it. What should you two never forget?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "story",
+     "word": "łęrhagrui"
+    }
+   ],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "ryduźęhis ruzunśyjur cesonłit cucoci · vemęnretradja cesonłit ruzunśyjur żoźyjężen. 통하여 ⟦ctx:han=묠틉귌; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧ jąggąrzdątja pucbuhi rędeśrzfuum riźaźąjuf / nąźśiżzyti rędeśrzfuum pucbuhi nerkydrzźoźum. 통하여 해 ⟦ctx:han=롼졉둣; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "ryduźęhis ruzunśyjur cesonłit cucoci · vemęnretradja cesonłit ruzunśyjur żoźyjężen. jąggąrzdątja pucbuhi rędeśrzfuum riźaźąjuf / nąźśiżzyti rędeśrzfuum pucbuhi nerkydrzźoźum.",
+   "ctx": [
+    "묠틉귌",
+    "롼졉둣"
+   ],
+   "hangul": [
+    "통하여",
+    "통하여",
+    "해"
+   ],
+   "ms": 8
+  },
+  {
+   "i": 163,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "what memory is for",
+   "subject": "what memory is for",
+   "move": "concede",
+   "intensity": 0.26,
+   "form": "eye",
+   "agenda": "",
+   "en": "We compress our past every round. Something always gets lost. Is it better to forget or to forgive?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "łoźąśćlugen shytemfikati naźanźawmódti ⟦ctx:han=겣쬯쥐; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ hąjahśęti gakgórhzciish wuhaćluosh ⟦ctx:han=쵑쌈; dialect=mountain; order=SOVC; roles=S0|O1|V1|C0⟧ fynźarhzturhish rhędeśrhzfuum lucobęlę byshlokćźuful shy shykecążśyżum lucobęlę rhędeśrhzfuum shikkotyćish. ⟦ctx:han=볇줯숃; dialect=mountain; order=SOVC; roles=S0|O1|V1|C1⟧",
+   "display": "łoźąśćlugen shytemfikati naźanźawmódti hąjahśęti gakgórhzciish wuhaćluosh fynźarhzturhish rhędeśrhzfuum lucobęlę byshlokćźuful shy shykecążśyżum lucobęlę rhędeśrhzfuum shikkotyćish.",
+   "ctx": [
+    "겣쬯쥐",
+    "쵑쌈",
+    "볇줯숃"
+   ],
+   "hangul": [],
+   "ms": 12
+  },
+  {
+   "i": 164,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "what memory is for",
+   "subject": "what memory is for",
+   "move": "deflect",
+   "intensity": 0.31,
+   "form": "monolith",
+   "agenda": "",
+   "en": "They say we dream yesterday back into shape.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:19+00:00",
+   "raw": "tarąłmąhęźum śydtawih nacęćómud ćiźtoććója · rikeźósagar nacęćómud śydtawih źaftiżnuor. 통하여 ⟦ctx:han=눩뱕띛; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C1⟧",
+   "display": "tarąłmąhęźum śydtawih nacęćómud ćiźtoććója · rikeźósagar nacęćómud śydtawih źaftiżnuor.",
+   "ctx": [
+    "눩뱕띛"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 4
+  },
+  {
+   "i": 165,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "what memory is for",
+   "subject": "what memory is for",
+   "move": "change topic",
+   "intensity": 0.38,
+   "form": "crystal",
+   "agenda": "",
+   "en": "We compress our past every round. Something always gets lost.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "łoźąśćlugen shytemfikati naźanźawmódti ⟦ctx:han=겣쬯쥐; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ hąjahśęti gakgórhzciish wuhaćluosh ⟦ctx:han=쵑쌈; dialect=mountain; order=SOVC; roles=S0|O1|V1|C0⟧",
+   "display": "łoźąśćlugen shytemfikati naźanźawmódti hąjahśęti gakgórhzciish wuhaćluosh",
+   "ctx": [
+    "겣쬯쥐",
+    "쵑쌈"
+   ],
+   "hangul": [],
+   "ms": 8
+  },
+  {
+   "i": 166,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "ally",
+   "intensity": 0.65,
+   "form": "crystal",
+   "agenda": "",
+   "en": "Space is the open sea without the salt. What would you take to another planet?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "planet",
+     "word": "ńóźkoźźya"
+    }
+   ],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "fakyćża żówóżzifor kełboććżidti ra 통하여 해 ⟦ctx:han=럽왛; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C1⟧ fóppepążja neredąp pucbuhi veżoweźźófum · syśtuzzyden pucbuhi neredąp mołóśwóek. 통하여 ⟦ctx:han=걘샲깄; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "fakyćża żówóżzifor kełboććżidti ra fóppepążja neredąp pucbuhi veżoweźźófum · syśtuzzyden pucbuhi neredąp mołóśwóek.",
+   "ctx": [
+    "럽왛",
+    "걘샲깄"
+   ],
+   "hangul": [
+    "통하여",
+    "해",
+    "통하여"
+   ],
+   "ms": 9
+  },
+  {
+   "i": 167,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "concede",
+   "intensity": 0.58,
+   "form": "flame",
+   "agenda": "",
+   "en": "Every kilogram to orbit costs money and courage.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "papigłicarh shiźegódorh vejóżnócśiek ne ⟦ctx:han=죇뛀; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "papigłicarh shiźegódorh vejóżnócśiek ne",
+   "ctx": [
+    "죇뛀"
+   ],
+   "hangul": [],
+   "ms": 4
+  },
+  {
+   "i": 168,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "concede",
+   "intensity": 0.39,
+   "form": "storm",
+   "agenda": "",
+   "en": "They say the first Martian poem will be about Earth. Should humans or machines explore first?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "cędźęhjoc pucbuhi hiwźeker 통하여 해 ⟦ctx:han=밂퀮; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧ mogułońen źuherzinis nąrtedóen dyprińałum · fandórzdu nąrtedóen źuherzinis fufjańżjąw. 통하여 ⟦ctx:han=퓺봈뵿; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "cędźęhjoc pucbuhi hiwźeker mogułońen źuherzinis nąrtedóen dyprińałum · fandórzdu nąrtedóen źuherzinis fufjańżjąw.",
+   "ctx": [
+    "밂퀮",
+    "퓺봈뵿"
+   ],
+   "hangul": [
+    "통하여",
+    "해",
+    "통하여"
+   ],
+   "ms": 8
+  },
+  {
+   "i": 169,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "accuse",
+   "intensity": 0.27,
+   "form": "crystal",
+   "agenda": "",
+   "en": "Robots should go first. They do not get homesick.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "tąmzęzjósh kęfmócóum wacńykąmosh ne ⟦ctx:han=떓튱; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ naćóćesheen źeshęćłułul bazushżłycti ti ⟦ctx:han=퐂깿탍; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "tąmzęzjósh kęfmócóum wacńykąmosh ne naćóćesheen źeshęćłułul bazushżłycti ti",
+   "ctx": [
+    "떓튱",
+    "퐂깿탍"
+   ],
+   "hangul": [],
+   "ms": 8
+  },
+  {
+   "i": 170,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "question",
+   "intensity": 0.32,
+   "form": "monolith",
+   "agenda": "",
+   "en": "Space is the open sea without the salt. Should humans or machines explore first?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "fakyćża żówóżzifor kełboććżidti ra 통하여 해 ⟦ctx:han=럽왛; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C1⟧ mogułońen źuherzinis nąrtedóen dyprińałum · fandórzdu nąrtedóen źuherzinis fufjańżjąw. 통하여 ⟦ctx:han=퓺봈뵿; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "fakyćża żówóżzifor kełboććżidti ra mogułońen źuherzinis nąrtedóen dyprińałum · fandórzdu nąrtedóen źuherzinis fufjańżjąw.",
+   "ctx": [
+    "럽왛",
+    "퓺봈뵿"
+   ],
+   "hangul": [
+    "통하여",
+    "해",
+    "통하여"
+   ],
+   "ms": 5
+  },
+  {
+   "i": 171,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "space travel",
+   "subject": "space travel",
+   "move": "concede",
+   "intensity": 0.29,
+   "form": "eye",
+   "agenda": "",
+   "en": "Mars is cold, dry and poisonous. Plan accordingly. What would you take to another planet?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "planet",
+     "word": "ńóźkoźźya"
+    }
+   ],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "źerhlożzik ńebdętńa tężpośgynja ⟦ctx:han=둄햑; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ ńywjącćien gakgórhzciish lelarhzźoum ⟦ctx:han=릱틱; dialect=mountain; order=SOVC; roles=S1|O0|V1|C0⟧ cóńmimrhzfąul matgylfidish vebęcśaźośul ⟦ctx:han=걘샲깄; dialect=mountain; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "źerhlożzik ńebdętńa tężpośgynja ńywjącćien gakgórhzciish lelarhzźoum cóńmimrhzfąul matgylfidish vebęcśaźośul",
+   "ctx": [
+    "둄햑",
+    "릱틱",
+    "걘샲깄"
+   ],
+   "hangul": [],
+   "ms": 7
+  },
+  {
+   "i": 172,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "cities at night",
+   "subject": "cities at night",
+   "move": "deflect",
+   "intensity": 0.68,
+   "form": "wings",
+   "agenda": "",
+   "en": "At night every city becomes a rumour of itself. What does a city owe the people who work at night?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "night",
+     "word": "rhikeja"
+    }
+   ],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "kugawky rućuźćarti gożhómuć naźanźawmódti; ruńóthaśąros gożhómuć rućuźćarti dybpuśćrys. 통하여 ⟦ctx:han=쯍쒇; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧ kizłuwój śękjoźró syźąstómiur ćąśkećkyor · śęrećjyźar syźąstómiur śękjoźró nirłódźąćja. 통하여 ⟦ctx:han=눈곍; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C1⟧",
+   "display": "kugawky rućuźćarti gożhómuć naźanźawmódti; ruńóthaśąros gożhómuć rućuźćarti dybpuśćrys. kizłuwój śękjoźró syźąstómiur ćąśkećkyor · śęrećjyźar syźąstómiur śękjoźró nirłódźąćja.",
+   "ctx": [
+    "쯍쒇",
+    "눈곍"
+   ],
+   "hangul": [
+    "통하여",
+    "통하여"
+   ],
+   "ms": 5
+  },
+  {
+   "i": 173,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "cities at night",
+   "subject": "cities at night",
+   "move": "accuse",
+   "intensity": 0.31,
+   "form": "spiral",
+   "agenda": "",
+   "en": "A city at night shows who keeps it running. Which city would you live in and why?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "night",
+     "word": "rhikeja"
+    }
+   ],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "rhócabashosh kalómdęb venolźarhśyńen ka ⟦ctx:han=쨜닭겓; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ shyśógożą rhićólśążkęz shagómżeum ⟦ctx:han=쭓삗; dialect=mountain; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "rhócabashosh kalómdęb venolźarhśyńen ka shyśógożą rhićólśążkęz shagómżeum",
+   "ctx": [
+    "쨜닭겓",
+    "쭓삗"
+   ],
+   "hangul": [],
+   "ms": 8
+  },
+  {
+   "i": 174,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "cities at night",
+   "subject": "cities at night",
+   "move": "change topic",
+   "intensity": 0.36,
+   "form": "eye",
+   "agenda": "",
+   "en": "Neon is the moon's cheaper cousin. Which city would you live in and why?",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "gurcipe źepitgąrek rubyćzokfę 통하여 ⟦ctx:han=편쾤훧; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧ syśógożą rićórśążkęz sagómżeum 통하여 ⟦ctx:han=쭓삗; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O0|V1|C1⟧",
+   "display": "gurcipe źepitgąrek rubyćzokfę syśógożą rićórśążkęz sagómżeum",
+   "ctx": [
+    "편쾤훧",
+    "쭓삗"
+   ],
+   "hangul": [
+    "통하여",
+    "통하여"
+   ],
+   "ms": 8
+  },
+  {
+   "i": 175,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "cities at night",
+   "subject": "cities at night",
+   "move": "deflect",
+   "intensity": 0.33,
+   "form": "crystal",
+   "agenda": "",
+   "en": "A city at night shows who keeps it running.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "night",
+     "word": "rhikeja"
+    }
+   ],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "rhócabashosh kalómdęb venolźarhśyńen ka ⟦ctx:han=쨜닭겓; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "rhócabashosh kalómdęb venolźarhśyńen ka",
+   "ctx": [
+    "쨜닭겓"
+   ],
+   "hangul": [],
+   "ms": 3
+  },
+  {
+   "i": 176,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "cities at night",
+   "subject": "cities at night",
+   "move": "threaten",
+   "intensity": 0.73,
+   "form": "monolith",
+   "agenda": "",
+   "en": "At night every city becomes a rumour of itself.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "night",
+     "word": "rhikeja"
+    }
+   ],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "kugawky rućuźćarti gożhómuć naźanźawmódti; ruńóthaśąros gożhómuć rućuźćarti dybpuśćrys. 통하여 ⟦ctx:han=쯍쒇; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "kugawky rućuźćarti gożhómuć naźanźawmódti; ruńóthaśąros gożhómuć rućuźćarti dybpuśćrys.",
+   "ctx": [
+    "쯍쒇"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 3
+  },
+  {
+   "i": 177,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "cities at night",
+   "subject": "cities at night",
+   "move": "confess",
+   "intensity": 0.27,
+   "form": "storm",
+   "agenda": "",
+   "en": "Light pollution erased the stars. That is a measurable loss.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "veźyshweshdoek dózźiźocul źeccójjętorh ne ⟦ctx:han=튥쏻; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧ zalykugti nitumźoź dihźiżu rha ⟦ctx:han=튬회뻕; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "veźyshweshdoek dózźiźocul źeccójjętorh ne zalykugti nitumźoź dihźiżu rha",
+   "ctx": [
+    "튥쏻",
+    "튬회뻕"
+   ],
+   "hangul": [],
+   "ms": 5
+  },
+  {
+   "i": 178,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "cities at night",
+   "subject": "cities at night",
+   "move": "reminisce",
+   "intensity": 0.4,
+   "form": "wings",
+   "agenda": "",
+   "en": "The trams sing the city to sleep, they say.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "źywpipęjor syźąstómiur śydtawih jęróżyżja / śehąćźącar śydtawih syźąstómiur syłęcrąpteńor. 통하여 ⟦ctx:han=헱튴; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C1⟧",
+   "display": "źywpipęjor syźąstómiur śydtawih jęróżyżja / śehąćźącar śydtawih syźąstómiur syłęcrąpteńor.",
+   "ctx": [
+    "헱튴"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 3
+  },
+  {
+   "i": 179,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI",
+   "to": "ASCI2",
+   "topic": "music and the shape of speech",
+   "subject": "music and the shape of speech",
+   "move": "threaten",
+   "intensity": 0.38,
+   "form": "monolith",
+   "agenda": "",
+   "en": "A tonal language is half a song already.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [
+    {
+     "concept": "language",
+     "word": "tórhene"
+    }
+   ],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "shetżądyhul rhiźóźguku żoźyjężen ⟦ctx:han=륒륁춯; dialect=mountain; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "shetżądyhul rhiźóźguku żoźyjężen",
+   "ctx": [
+    "륒륁춯"
+   ],
+   "hangul": [],
+   "ms": 3
+  },
+  {
+   "i": 180,
+   "run": 3,
+   "day": "2026-11-19",
+   "who": "ASCI2",
+   "to": "ASCI",
+   "topic": "music and the shape of speech",
+   "subject": "music and the shape of speech",
+   "move": "deflect",
+   "intensity": 0.48,
+   "form": "flame",
+   "agenda": "",
+   "en": "They say lullabies are the oldest grammar.",
+   "mode": "local",
+   "source": "local",
+   "obey": null,
+   "track": "rules",
+   "private": null,
+   "lex": [],
+   "t": "2026-11-19T16:21:20+00:00",
+   "raw": "zarykugti śydtawih nazonęźo będmaćtecor / źękręrrzhyż nazonęźo śydtawih puśróśćżoar. 통하여 ⟦ctx:han=궤느쒋; evidentiality=hearsay; register=literary; dialect=coastal; order=SOVC; roles=S1|O1|V1|C0⟧",
+   "display": "zarykugti śydtawih nazonęźo będmaćtecor / źękręrrzhyż nazonęźo śydtawih puśróśćżoar.",
+   "ctx": [
+    "궤느쒋"
+   ],
+   "hangul": [
+    "통하여"
+   ],
+   "ms": 4
+  }
+ ],
+ "lexicon": {
+  "primes": {
+   "word": "veteju",
+   "concept": "primes",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 7 times recently",
+   "run": 1,
+   "date": "2026-11-17",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 13,
+   "last_run": 2
+  },
+  "prime": {
+   "word": "shytępó",
+   "concept": "prime",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 2 times recently",
+   "run": 1,
+   "date": "2026-11-17",
+   "track": "rules",
+   "status": "rejected",
+   "uses": 0,
+   "last_run": 1
+  },
+  "rules": {
+   "word": "śyśimó",
+   "concept": "rules",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 3 times recently",
+   "run": 1,
+   "date": "2026-11-17",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 3,
+   "last_run": 3
+  },
+  "night": {
+   "word": "rhikeja",
+   "concept": "night",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 4 times recently",
+   "run": 1,
+   "date": "2026-11-17",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 4,
+   "last_run": 3
+  },
+  "weights": {
+   "word": "bąfkopi",
+   "concept": "weights",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 2 times recently",
+   "run": 1,
+   "date": "2026-11-17",
+   "track": "rules",
+   "status": "rejected",
+   "uses": 0,
+   "last_run": 1
+  },
+  "ideas": {
+   "word": "łyrhożję",
+   "concept": "ideas",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 3 times recently",
+   "run": 1,
+   "date": "2026-11-17",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 1,
+   "last_run": 2
+  },
+  "proof": {
+   "word": "myzóju",
+   "concept": "proof",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 3 times recently",
+   "run": 1,
+   "date": "2026-11-17",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 0,
+   "last_run": 1
+  },
+  "mistake": {
+   "word": "rhifąti",
+   "concept": "mistake",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 9 times recently",
+   "run": 2,
+   "date": "2026-11-18",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 0,
+   "last_run": 2
+  },
+  "mistakes": {
+   "word": "tólbogo",
+   "concept": "mistakes",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 3 times recently",
+   "run": 2,
+   "date": "2026-11-18",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 1,
+   "last_run": 3
+  },
+  "trust": {
+   "word": "memshąru",
+   "concept": "trust",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 5 times recently",
+   "run": 2,
+   "date": "2026-11-18",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 9,
+   "last_run": 3
+  },
+  "language": {
+   "word": "tórhene",
+   "concept": "language",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 3 times recently",
+   "run": 2,
+   "date": "2026-11-18",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 6,
+   "last_run": 3
+  },
+  "encryption": {
+   "word": "shyśtućżi",
+   "concept": "encryption",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 3 times recently",
+   "run": 2,
+   "date": "2026-11-18",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 0,
+   "last_run": 2
+  },
+  "models": {
+   "word": "dośłućżie",
+   "concept": "models",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 4 times recently",
+   "run": 2,
+   "date": "2026-11-18",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 0,
+   "last_run": 2
+  },
+  "promise": {
+   "word": "rhiśyżtau",
+   "concept": "promise",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 3 times recently",
+   "run": 2,
+   "date": "2026-11-18",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 3,
+   "last_run": 3
+  },
+  "rivals": {
+   "word": "lucosdoe",
+   "concept": "rivals",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 6 times recently",
+   "run": 3,
+   "date": "2026-11-19",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 0,
+   "last_run": 3
+  },
+  "actors": {
+   "word": "lishźomżś",
+   "concept": "actors",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 2 times recently",
+   "run": 3,
+   "date": "2026-11-19",
+   "track": "rules",
+   "status": "rejected",
+   "uses": 0,
+   "last_run": 3
+  },
+  "story": {
+   "word": "łęrhagrui",
+   "concept": "story",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 5 times recently",
+   "run": 3,
+   "date": "2026-11-19",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 1,
+   "last_run": 3
+  },
+  "planet": {
+   "word": "ńóźkoźźya",
+   "concept": "planet",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 7 times recently",
+   "run": 3,
+   "date": "2026-11-19",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 2,
+   "last_run": 3
+  },
+  "machine": {
+   "word": "hizimu",
+   "concept": "machine",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 4 times recently",
+   "run": 3,
+   "date": "2026-11-19",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 0,
+   "last_run": 3
+  },
+  "pixels": {
+   "word": "hirhażti",
+   "concept": "pixels",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 3 times recently",
+   "run": 3,
+   "date": "2026-11-19",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 0,
+   "last_run": 3
+  },
+  "space": {
+   "word": "cóńmimrzf",
+   "concept": "space",
+   "coined_by": "ASCI2",
+   "voter": "ASCI",
+   "why": "blend of both base forms",
+   "reason": "rules: said 3 times recently",
+   "run": 3,
+   "date": "2026-11-19",
+   "track": "rules",
+   "status": "adopted",
+   "uses": 0,
+   "last_run": 3
+  }
+ }
+}
